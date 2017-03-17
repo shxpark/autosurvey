@@ -1,8 +1,8 @@
 {
   "questions": [
     {
-      "body": "What type of bear is best?",
-      "kind": "text"
+      "body": "In a scale of 1 to 10, what did you think of our product?",
+      "kind": "numeric"
     },
     {
       "body": "In a scale of 1 to 10, how cute do you find koalas?",
